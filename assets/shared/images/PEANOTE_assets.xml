@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PEANOTE_assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="10" y="10" width="152" height="152"/>
+	<SubTexture name="green0000" x="10" y="10" width="152" height="152"/>
+	<SubTexture name="purple0000" x="10" y="172" width="152" height="152"/>
+	<SubTexture name="red0000" x="10" y="10" width="152" height="152"/>
+</TextureAtlas>

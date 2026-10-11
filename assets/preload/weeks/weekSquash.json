@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Ambiguity",
+			"squash",
+			[
+				180,
+				255,
+				100
+			]
+		],
+		[
+			"SQUASH",
+			"squash",
+			[
+				180,
+				255,
+				100
+			]
+		],
+		[
+			"Plant",
+			"squash",
+			[
+				120,
+				195,
+				20
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage3",
+	"difficulties": "Hard3",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Hmm?? BUH!",
+	"weekName": "Week Squash",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekPea",
+	"startUnlocked": false
+}

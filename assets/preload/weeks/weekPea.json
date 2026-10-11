@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Grounded",
+			"pea",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"SPLAT",
+			"pea",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Peattic",
+			"pea",
+			[
+				0,
+				135,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage2",
+	"difficulties": "Hard2",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Suck my balls",
+	"weekName": "Week Pea",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekPep",
+	"startUnlocked": false
+}

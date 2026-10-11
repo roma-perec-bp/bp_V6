@@ -1,0 +1,44 @@
+{
+	"storyName": "Babah nahui",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"scam",
+			"pep",
+			[
+				255,
+				100,
+				60
+			]
+		],
+		[
+			"boom",
+			"pep",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"overfire",
+			"pepW",
+			[
+				100,
+				40,
+				0
+			]
+		]
+	],
+	"weekName": "Week Pep"
+}

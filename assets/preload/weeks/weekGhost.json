@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"666",
+			"zombieBox",
+			[
+				140,
+				140,
+				140
+			]
+		],
+		[
+			"Explosion",
+			"zombieBox",
+			[
+				140,
+				140,
+				140
+			]
+		],
+		[
+			"Ghosted",
+			"zombieBox",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage4",
+	"difficulties": "Hard4",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "i love psych engine 0.6.3",
+	"weekName": "Week Ghost",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekSquash",
+	"startUnlocked": false
+}

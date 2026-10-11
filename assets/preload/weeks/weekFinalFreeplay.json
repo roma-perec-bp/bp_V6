@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"BRUTAL PIZDEC",
+			"everyone",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage5",
+	"difficulties": "Impossible, Hard5",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "BRUTAL PIZDEC",
+	"weekName": "Week Final Freeplay",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "weekGhost",
+	"startUnlocked": false
+}

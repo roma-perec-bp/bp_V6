@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cutscene_2.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cutscene_20000" x="10" y="1671" width="2061" height="1651" frameX="0" frameY="0" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20001" x="10" y="1671" width="2061" height="1651" frameX="0" frameY="0" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20002" x="10" y="10" width="2067" height="1651"/>
+	<SubTexture name="cutscene_20003" x="2081" y="1671" width="2059" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20004" x="2081" y="1671" width="2059" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20005" x="2046" y="4911" width="2013" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20006" x="2046" y="4911" width="2013" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20007" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20008" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20009" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20010" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20011" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20012" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20013" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20014" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20015" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20016" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20017" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20018" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20019" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20020" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20021" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20022" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20023" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20024" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20025" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20026" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20027" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20028" x="10" y="3332" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20029" x="4117" y="3286" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20030" x="4117" y="3286" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20031" x="4123" y="10" width="2026" height="1619" frameX="0" frameY="-32" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20032" x="4123" y="10" width="2026" height="1619" frameX="0" frameY="-32" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20033" x="2081" y="3286" width="2026" height="1615" frameX="0" frameY="-36" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20034" x="2087" y="10" width="2026" height="1620" frameX="0" frameY="-31" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20035" x="2087" y="10" width="2026" height="1620" frameX="0" frameY="-31" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20036" x="4150" y="1639" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20037" x="4150" y="1639" width="2026" height="1611" frameX="0" frameY="-40" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20038" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20039" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20040" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20041" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20042" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20043" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20044" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20045" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20046" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20047" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20048" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20049" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20050" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20051" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20052" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20053" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20054" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20055" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+	<SubTexture name="cutscene_20056" x="4117" y="4907" width="2026" height="1605" frameX="0" frameY="-46" frameWidth="2067" frameHeight="1651"/>
+</TextureAtlas>
